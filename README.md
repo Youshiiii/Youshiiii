@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youshiiii
 - 🌱 I’m currently learning coding with JavaScript, HTML5 and CSS3!
 - 💞️ I’m looking to collaborate on open source projects !
-- 📫 How to reach me : alyssa.lefevre.lion@gmail.com
+- 📫 How to reach me : /
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my surname is Youyou and my cat's name is Sushi ! <3
 
